@@ -9,5 +9,5 @@ Learn how to write an application using object-oriented Python and how to make t
 
 #### Running the Project Locally
 * If necessary, install Requests dependency with ```pip install requests```
-* Clone the repo with ```git clone https://github.com/sharynneazhar/udacity_movie-trailers.git``` and ```cd``` into that directory
+* Clone the repo with ```git clone https://github.com/sharynneazhar/FSND-Movie-Trailers-P1.git``` and ```cd``` into that directory
 * Run ```python entertainment_center.py``` and the web page will open in your default browser
